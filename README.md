@@ -1,16 +1,18 @@
-## Hi there 👋
+# Sewang Rai
 
-<!--
-**sewang-sudo/sewang-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer from Kathmandu, Nepal.
 
-Here are some ideas to get you started:
+Currently building **Thahar Protocol** — parametric crop and disaster insurance on Solana for Nepali smallholder farmers. Weather oracle triggers automatic USDC payouts. No claims. No middlemen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🔨 **Stack:** Rust · Anchor · Solana · React · FastAPI · PostgreSQL
+
+🌱 **Learning:** Rust · Anchor · Smart contract security
+
+📍 **Location:** Kathmandu, Nepal
+
+---
+
+### Current Project
+[Thahar Protocol](https://github.com/sewang-sudo/Thahar) — Parametric insurance on Solana for Nepal
